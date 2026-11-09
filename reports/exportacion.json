@@ -1,0 +1,30 @@
+[
+    {
+        "id": 123,
+        "nombre": "Santos Chuc",
+        "telefono": "35976161",
+        "correo": "prueba1@gmail.com",
+        "ciudad": "Totonicapan"
+    },
+    {
+        "id": 1234,
+        "nombre": "Maynor Morales",
+        "telefono": "50808254",
+        "correo": "prueba2@gmail.com",
+        "ciudad": "Quetzaltenango"
+    },
+    {
+        "id": 12345,
+        "nombre": "Cris de León",
+        "telefono": "41089298",
+        "correo": "prueba3@gmail.com",
+        "ciudad": "Cantel"
+    },
+    {
+        "id": 123456,
+        "nombre": "Santiago Batz",
+        "telefono": "33445566",
+        "correo": "prueba4@gmail.com",
+        "ciudad": "La Esperanza"
+    }
+]
