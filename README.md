@@ -8,7 +8,7 @@ El proyecto fue desarrollado para el curso de Manejo e Implementación de Archiv
 
 ##  Características Principales
 
-*   **Acceso Aleatorio ($O(1)$):** Lectura y modificación *in-place* directa en el disco sin recorrer el archivo secuencialmente.
+*   **Acceso Aleatorio (O(1)):** Lectura y modificación *in-place* directa en el disco sin recorrer el archivo secuencialmente.
 *   **Índice en Memoria:** Utiliza un archivo JSON secundario para mapear IDs lógicos a posiciones físicas de manera ultra rápida.
 *   **Seguridad e Integridad:** Verificación criptográfica con **SHA-256** para detectar si la base de datos fue alterada de forma externa.
 *   **Interfaz Gráfica Moderna:** UI responsiva con modo claro/oscuro construida con **NiceGUI**.
@@ -86,4 +86,4 @@ Proyecto2_MIA/
 ```
 
 ---
-**Desarrollado por:** Cristhian Estuardo De León Pérez - Universidad Rafael Landívar.
+**Desarrollado por:** Cristhian Estuardo De León Pérez
