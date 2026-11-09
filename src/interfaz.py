@@ -143,7 +143,7 @@ class AgendaUI:
                     ui.label('Acerca de...').classes(
                         'text-2xl mb-4 font-bold text-center w-full text-gray-700 dark:text-white')
                     ui.label(
-                        'Laboratorio 2 - Manejo de Archivos\nUniversidad Rafael Landívar\n\nDesarrollado en Python con Acceso Aleatorio.').classes(
+                        'Proyecto 02 - Manejo de Archivos\nUniversidad Rafael Landívar\n\nDesarrollado en Python con Acceso Aleatorio.').classes(
                         'text-center w-full whitespace-pre-line dark:text-gray-300')
 
     def dibujar_formulario(self, modo):
