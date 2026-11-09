@@ -1,5 +1,4 @@
 # Proyecto2_MIA
-# Proyecto 02: Agenda de Contactos
 
 [![Ver Informe Técnico](https://img.shields.io/badge/Ver_Informe_Técnico-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./docs/Proyecto02_MIA.pdf)
 
